@@ -20,27 +20,27 @@ This project focuses on analyzing e-commerce product data to extract meaningful 
 
 1) Data Cleaning:
 
-  - Handling missing values
-  
-  - Data type conversions
-  
-  - Removing duplicates
+    - Handling missing values
+    
+    - Data type conversions
+    
+    - Removing duplicates
 
 2) Exploratory Data Analysis (EDA):
 
-  - Distribution of ratings and prices
-  
-  - Comparison of discount trends
-  
-  - Identifying top-selling products
+    - Distribution of ratings and prices
+    
+    - Comparison of discount trends
+    
+    - Identifying top-selling products
 
 3) Visualizations:
 
-  - Histograms and box plots for pricing insights
-  
-  - Bar charts for platform-wise product comparison
-  
-  - Heatmaps for correlation analysis
+    - Histograms and box plots for pricing insights
+    
+    - Bar charts for platform-wise product comparison
+    
+    - Heatmaps for correlation analysis
 
 # 🔍 Key Insights
 
