@@ -1,4 +1,5 @@
 # E-Commerce Data Analysis
+![image](https://github.com/user-attachments/assets/2eca24eb-dc8b-4509-b933-20eeba09dd1c)
 
 # 📌 Project Overview
 
